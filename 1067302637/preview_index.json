@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-04-23T15:52:35.430413",
+  "updated_at": "2026-06-03T01:46:07+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -218,6 +218,12 @@
       "file": "菠萝包の时来运转.bds",
       "thumb": "菠萝包の时来运转.bds_py_26_light_thumb.png",
       "full": "菠萝包の时来运转.bds_py_26_light.png"
+    },
+    {
+      "name": "菠萝包の多巴胺小屋",
+      "file": "菠萝包の多巴胺小屋.bds",
+      "thumb": "菠萝包の多巴胺小屋.bds_py_26_light_thumb.png",
+      "full": "菠萝包の多巴胺小屋.bds_py_26_light_thumb.png"
     }
   ]
 }
