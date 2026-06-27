@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-06-27T17:40:03+00:00",
+  "updated_at": "2026-06-27T17:40:08+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -299,12 +299,6 @@
     },
     {
       "name": "菠萝包の谁是呆呆猪",
-      "file": "菠萝包の谁是呆呆猪.bds",
-      "thumb": "菠萝包の谁是呆呆猪.bds_py_26_light_thumb.png",
-      "full": "菠萝包の谁是呆呆猪.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "菠萝包の谁是呆呆猪",
       "file": "菠萝包の谁是呆呆猪灰底.bds",
       "thumb": "菠萝包の谁是呆呆猪灰底.bds_py_26_light_thumb.png",
       "full": "菠萝包の谁是呆呆猪灰底.bds_py_26_light_thumb.png"
@@ -314,6 +308,12 @@
       "file": "菠萝包の谁是呆呆猪透明底.bdi",
       "thumb": "菠萝包の谁是呆呆猪透明底.bdi_py_26_light_thumb.png",
       "full": "菠萝包の谁是呆呆猪透明底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の谁是呆呆猪",
+      "file": "菠萝包の谁是呆呆猪.bds",
+      "thumb": "菠萝包の谁是呆呆猪.bds_py_26_light_thumb.png",
+      "full": "菠萝包の谁是呆呆猪.bds_py_26_light_thumb.png"
     }
   ]
 }
