@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-07-23T08:47:35+00:00",
+  "updated_at": "2026-07-23T08:48:23+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -341,12 +341,6 @@
     },
     {
       "name": "菠萝包の厨神小狗",
-      "file": "菠萝包の厨神小狗透明底.bdi",
-      "thumb": "菠萝包の厨神小狗透明底.bdi_py_26_light_thumb.png",
-      "full": "菠萝包の厨神小狗透明底.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "菠萝包の厨神小狗",
       "file": "菠萝包の厨神小狗.bds",
       "thumb": "菠萝包の厨神小狗.bds_py_26_light_thumb.png",
       "full": "菠萝包の厨神小狗.bds_py_26_light_thumb.png"
@@ -356,6 +350,12 @@
       "file": "菠萝包の厨神小狗.bdi",
       "thumb": "菠萝包の厨神小狗.bdi_py_26_light_thumb.png",
       "full": "菠萝包の厨神小狗.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の厨神小狗",
+      "file": "菠萝包の厨神小狗透明底.bdi",
+      "thumb": "菠萝包の厨神小狗透明底.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の厨神小狗透明底.bdi_py_26_light_thumb.png"
     }
   ]
 }
