@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-07-25T04:29:26+00:00",
+  "updated_at": "2026-07-25T04:34:52+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -17,15 +17,15 @@
     },
     {
       "name": "菠萝包の奔腾小马",
-      "file": "菠萝包の奔腾小马灰底.bds",
-      "thumb": "菠萝包の奔腾小马灰底.bds_py_26_light_thumb.png",
-      "full": "菠萝包の奔腾小马灰底.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "菠萝包の奔腾小马",
       "file": "菠萝包の奔腾小马.bds",
       "thumb": "菠萝包の奔腾小马.bds_py_26_light_thumb.png",
       "full": "菠萝包の奔腾小马.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の奔腾小马",
+      "file": "菠萝包の奔腾小马灰底.bds",
+      "thumb": "菠萝包の奔腾小马灰底.bds_py_26_light_thumb.png",
+      "full": "菠萝包の奔腾小马灰底.bds_py_26_light_thumb.png"
     }
   ]
 }
