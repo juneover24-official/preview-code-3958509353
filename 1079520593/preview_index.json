@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1079520593",
-  "updated_at": "2026-04-23T15:52:36.595275",
+  "updated_at": "2026-07-28T05:50:49+00:00",
   "skins": [
     {
       "name": "菠萝包の蛋糕日",
@@ -20,12 +20,6 @@
       "file": "菠萝包の三猫会谈.bdi",
       "thumb": "菠萝包の三猫会谈.bdi_py_26_light_thumb.png",
       "full": "菠萝包の三猫会谈.bdi_py_26_light.png"
-    },
-    {
-      "name": "菠萝包の狗",
-      "file": "菠萝包の狗.bdi",
-      "thumb": "菠萝包の狗.bdi_py_26_light_thumb.png",
-      "full": "菠萝包の狗.bdi_py_26_light.png"
     },
     {
       "name": "菠萝包の我最棒",
@@ -170,6 +164,12 @@
       "file": "菠萝包の三猫会谈.bds",
       "thumb": "菠萝包の三猫会谈.bds_py_26_light_thumb.png",
       "full": "菠萝包の三猫会谈.bds_py_26_light.png"
+    },
+    {
+      "name": "菠萝包の狗",
+      "file": "菠萝包の狗.bdi",
+      "thumb": "菠萝包の狗.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の狗.bdi_py_26_light_thumb.png"
     }
   ]
 }
