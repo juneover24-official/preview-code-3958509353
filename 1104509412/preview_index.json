@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1104509412",
-  "updated_at": "2026-09-16T14:22:24+00:00",
+  "updated_at": "2026-09-16T14:23:02+00:00",
   "skins": [
     {
       "name": "菠萝包の游园日",
@@ -65,6 +65,13 @@
       "thumb": "菠萝包の宅家做手帐.bds_py_26_light_thumb.png",
       "full": "菠萝包の宅家做手帐.bds_py_26_light_thumb.png",
       "file_id": "566e2812e35a10c265019bba16c8d713"
+    },
+    {
+      "name": "菠萝包の橘猫甜铺",
+      "file": "菠萝包の橘猫甜铺.bds",
+      "thumb": "菠萝包の橘猫甜铺.bds_py_26_light_thumb.png",
+      "full": "菠萝包の橘猫甜铺.bds_py_26_light_thumb.png",
+      "file_id": "1997c57a92f9038753c9f52be8b876c0"
     }
   ]
 }
