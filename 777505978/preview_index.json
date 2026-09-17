@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-07-28T18:17:23+00:00",
+  "updated_at": "2026-09-17T17:01:19+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -44,6 +44,13 @@
       "file": "菠萝包の海盐芝士-无背景.bdi",
       "thumb": "菠萝包の海盐芝士-无背景.bdi_py_26_light_thumb.png",
       "full": "菠萝包の海盐芝士-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の喵喵小汪",
+      "file": "菠萝包の喵喵小汪.bdi",
+      "thumb": "菠萝包の喵喵小汪.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の喵喵小汪.bdi_py_26_light_thumb.png",
+      "file_id": "55ec539adf881269d1ecfbbd5be20668"
     }
   ]
 }
