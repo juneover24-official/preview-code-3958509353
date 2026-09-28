@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-09-28T06:07:29+00:00",
+  "updated_at": "2026-09-28T06:07:55+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -375,6 +375,13 @@
       "thumb": "菠萝包の苹苹安安27系统.bdi_py_26_light_thumb.png",
       "full": "菠萝包の苹苹安安27系统.bdi_py_26_light_thumb.png",
       "file_id": "2e59e6b56d67f791463c70abee2944fd"
+    },
+    {
+      "name": "菠萝包の苹苹安安",
+      "file": "菠萝包の苹苹安安.bdi",
+      "thumb": "菠萝包の苹苹安安.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の苹苹安安.bdi_py_26_light_thumb.png",
+      "file_id": "3fd67e4d23594af4897c1890b2f2105b"
     }
   ]
 }
