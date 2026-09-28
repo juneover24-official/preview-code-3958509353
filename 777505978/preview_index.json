@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-09-28T16:25:59+00:00",
+  "updated_at": "2026-09-28T19:38:35+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -93,6 +93,13 @@
       "thumb": "菠萝包の秋日音乐趴27系统.bdi_py_26_light_thumb.png",
       "full": "菠萝包の秋日音乐趴27系统.bdi_py_26_light_thumb.png",
       "file_id": "17973c6655b4333d32abefa180cfb845"
+    },
+    {
+      "name": "菠萝包の秋日音乐趴",
+      "file": "菠萝包の秋日音乐趴.bdi",
+      "thumb": "菠萝包の秋日音乐趴.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の秋日音乐趴.bdi_py_26_light_thumb.png",
+      "file_id": "6537a9e940cbf84d6e637079ae1177bb"
     }
   ]
 }
