@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1121584489",
-  "updated_at": "2026-10-05T08:16:04+00:00",
+  "updated_at": "2026-10-05T08:16:36+00:00",
   "skins": [
     {
       "name": "菠萝包の草莓甜甜",
@@ -48,6 +48,13 @@
       "thumb": "菠萝包の梦幻童话.bdi_py_26_light_thumb.png",
       "full": "菠萝包の梦幻童话.bdi_py_26_light_thumb.png",
       "file_id": "b34c2edc488f012e10d5fd7e4fd995e0"
+    },
+    {
+      "name": "菠萝包の梦幻童话",
+      "file": "菠萝包の梦幻童话27系统.bdi",
+      "thumb": "菠萝包の梦幻童话27系统.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の梦幻童话27系统.bdi_py_26_light_thumb.png",
+      "file_id": "ea7e87fac203ddd2398e527da1b5e9da"
     }
   ]
 }
