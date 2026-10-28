@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1128556736",
-  "updated_at": "2026-10-28T10:52:59+00:00",
+  "updated_at": "2026-10-28T10:57:48+00:00",
   "skins": [
     {
       "name": "菠萝包の小食萌记",
@@ -69,6 +69,13 @@
       "thumb": "菠萝包の花园下午茶无动销27.bdi_py_26_light_thumb.png",
       "full": "菠萝包の花园下午茶无动销27.bdi_py_26_light_thumb.png",
       "file_id": "ea3eecb0f76feecf424cc832ade04205"
+    },
+    {
+      "name": "菠萝包の花园下午茶",
+      "file": "菠萝包の花园下午茶无动销.bdi",
+      "thumb": "菠萝包の花园下午茶无动销.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の花园下午茶无动销.bdi_py_26_light_thumb.png",
+      "file_id": "6bc79b389193030ab95f733c364defc5"
     }
   ]
 }
