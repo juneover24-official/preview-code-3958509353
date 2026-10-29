@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "667535947",
-  "updated_at": "2026-10-29T10:21:26+00:00",
+  "updated_at": "2026-10-29T10:43:43+00:00",
   "skins": [
     {
       "name": "菠萝包の鼻嘎郊游日",
@@ -39,6 +39,13 @@
       "thumb": "菠萝包の鼻嘎郊游日脆.bds_py_26_light_thumb.png",
       "full": "菠萝包の鼻嘎郊游日脆.bds_py_26_light_thumb.png",
       "file_id": "40e871749b3faab12a322c0fb42ff412"
+    },
+    {
+      "name": "菠萝包の青苹果乐园",
+      "file": "菠萝包の青苹果乐园27.bdi",
+      "thumb": "菠萝包の青苹果乐园27.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の青苹果乐园27.bdi_py_26_light_thumb.png",
+      "file_id": "0b5399616b56473226127e3494a5f341"
     }
   ]
 }
