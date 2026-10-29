@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "667535947",
-  "updated_at": "2026-10-29T10:16:45+00:00",
+  "updated_at": "2026-10-29T10:16:52+00:00",
   "skins": [
     {
       "name": "菠萝包の鼻嘎郊游日",
@@ -20,6 +20,12 @@
       "file": "菠萝包の鼻嘎郊游日脆.bdi",
       "thumb": "菠萝包の鼻嘎郊游日脆.bdi_py_26_light_thumb.png",
       "full": "菠萝包の鼻嘎郊游日脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の鼻嘎郊游日",
+      "file": "菠萝包の鼻嘎郊游日27闷音.bdi",
+      "thumb": "菠萝包の鼻嘎郊游日27闷音.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の鼻嘎郊游日27闷音.bdi_py_26_light_thumb.png"
     }
   ]
 }
