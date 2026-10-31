@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-10-31T01:35:22+00:00",
+  "updated_at": "2026-10-31T01:36:00+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -459,6 +459,13 @@
       "thumb": "菠萝包の初秋.bdi_py_26_light_thumb.png",
       "full": "菠萝包の初秋.bdi_py_26_light_thumb.png",
       "file_id": "b4510ff778ffbc9ca131be191626750a"
+    },
+    {
+      "name": "菠萝包の初秋",
+      "file": "菠萝包の初秋透明底.bdi",
+      "thumb": "菠萝包の初秋透明底.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の初秋透明底.bdi_py_26_light_thumb.png",
+      "file_id": "4c6bfcae06d471db16da7d910e460676"
     }
   ]
 }
