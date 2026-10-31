@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-10-31T01:33:47+00:00",
+  "updated_at": "2026-10-31T01:34:59+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -445,6 +445,13 @@
       "thumb": "菠萝包の天使女孩透明底.bdi_py_26_light_thumb.png",
       "full": "菠萝包の天使女孩透明底.bdi_py_26_light_thumb.png",
       "file_id": "f4f780f3620b55a8dc23dbf184aa6d79"
+    },
+    {
+      "name": "菠萝包の天使女孩",
+      "file": "菠萝包の天使女孩.bdi",
+      "thumb": "菠萝包の天使女孩.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の天使女孩.bdi_py_26_light_thumb.png",
+      "file_id": "cac46a82d4c91778d1f3a79bc918862c"
     }
   ]
 }
