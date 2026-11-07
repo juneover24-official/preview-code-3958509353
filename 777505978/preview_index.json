@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-11-07T10:43:02+00:00",
+  "updated_at": "2026-11-07T10:46:12+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -135,12 +135,6 @@
     },
     {
       "name": "菠萝包の初雪告白",
-      "file": "菠萝包の初雪告白_iOS27.bdi",
-      "thumb": "菠萝包の初雪告白_iOS27.bdi_py_26_light_thumb.png",
-      "full": "菠萝包の初雪告白_iOS27.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "菠萝包の初雪告白",
       "file": "菠萝包の初雪告白.bdi",
       "thumb": "菠萝包の初雪告白.bdi_py_26_light_thumb.png",
       "full": "菠萝包の初雪告白.bdi_py_26_light_thumb.png"
@@ -150,6 +144,13 @@
       "file": "菠萝包の初雪告白.bds",
       "thumb": "菠萝包の初雪告白.bds_py_26_light_thumb.png",
       "full": "菠萝包の初雪告白.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の初雪告白",
+      "file": "菠萝包の初雪告白_iOS27.bdi",
+      "thumb": "菠萝包の初雪告白_iOS27.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の初雪告白_iOS27.bdi_py_26_light_thumb.png",
+      "file_id": "5098ab0f5bd6e8d2104371aeb1064f96"
     }
   ]
 }
