@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-11-10T12:22:18+00:00",
+  "updated_at": "2026-11-14T15:31:38+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -169,6 +169,12 @@
       "file": "菠萝包の豹豹度假村_iOS27.bdi",
       "thumb": "菠萝包の豹豹度假村_iOS27.bdi_py_26_light_thumb.png",
       "full": "菠萝包の豹豹度假村_iOS27.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の粉色娇嫩",
+      "file": "菠萝包的粉色娇嫩_iOS27.bdi",
+      "thumb": "菠萝包的粉色娇嫩_iOS27.bdi_py_26_light_thumb.png",
+      "full": "菠萝包的粉色娇嫩_iOS27.bdi_py_26_light_thumb.png"
     }
   ]
 }
