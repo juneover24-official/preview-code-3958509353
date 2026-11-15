@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1128556736",
-  "updated_at": "2026-11-15T06:50:10+00:00",
+  "updated_at": "2026-11-15T06:51:02+00:00",
   "skins": [
     {
       "name": "菠萝包の小食萌记",
@@ -116,12 +116,6 @@
     },
     {
       "name": "菠萝包の采蘑菇",
-      "file": "菠萝包の采蘑菇闷_iOS27.bdi",
-      "thumb": "菠萝包の采蘑菇闷_iOS27.bdi_py_26_light_thumb.png",
-      "full": "菠萝包の采蘑菇闷_iOS27.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "菠萝包の采蘑菇",
       "file": "菠萝包の采蘑菇脆.bds",
       "thumb": "菠萝包の采蘑菇脆.bds_py_26_light_thumb.png",
       "full": "菠萝包の采蘑菇脆.bds_py_26_light_thumb.png"
@@ -150,6 +144,13 @@
       "thumb": "菠萝包の采蘑菇脆_iOS27.bdi_py_26_light_thumb.png",
       "full": "菠萝包の采蘑菇脆_iOS27.bdi_py_26_light_thumb.png",
       "file_id": "7b5a639cd773456c5042c825985eda39"
+    },
+    {
+      "name": "菠萝包の采蘑菇",
+      "file": "菠萝包の采蘑菇闷_iOS27.bdi",
+      "thumb": "菠萝包の采蘑菇闷_iOS27.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の采蘑菇闷_iOS27.bdi_py_26_light_thumb.png",
+      "file_id": "8aa9ab43b60d00f64a2f0f11e7b328fa"
     }
   ]
 }
