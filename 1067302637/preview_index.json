@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1067302637",
-  "updated_at": "2026-11-09T09:05:51+00:00",
+  "updated_at": "2026-11-17T11:17:08+00:00",
   "skins": [
     {
       "name": "菠萝包の小熊宅家记",
@@ -503,6 +503,12 @@
       "thumb": "菠萝包の糖果铺子.bdi_py_26_light_thumb.png",
       "full": "菠萝包の糖果铺子.bdi_py_26_light_thumb.png",
       "file_id": "b77dd65229737836d784d3b4a64b48c0"
+    },
+    {
+      "name": "菠萝包の冬日热可可",
+      "file": "菠萝包の冬日热可可.bds",
+      "thumb": "菠萝包の冬日热可可.bds_py_26_light_thumb.png",
+      "full": "菠萝包の冬日热可可.bds_py_26_light_thumb.png"
     }
   ]
 }
