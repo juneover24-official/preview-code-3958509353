@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1121584489",
-  "updated_at": "2026-11-21T13:56:49+00:00",
+  "updated_at": "2026-11-21T14:02:15+00:00",
   "skins": [
     {
       "name": "菠萝包の草莓甜甜",
@@ -69,6 +69,13 @@
       "thumb": "菠萝包の小动物游乐场.bds_py_26_light_thumb.png",
       "full": "菠萝包の小动物游乐场.bds_py_26_light_thumb.png",
       "file_id": "130a25cc10a1d8e15b1154e7106fb17f"
+    },
+    {
+      "name": "菠萝包の住在胡子上",
+      "file": "菠萝包の住在胡子上.bds",
+      "thumb": "菠萝包の住在胡子上.bds_py_26_light_thumb.png",
+      "full": "菠萝包の住在胡子上.bds_py_26_light_thumb.png",
+      "file_id": "51ed25d35b430884376cb6d88b750e20"
     }
   ]
 }
