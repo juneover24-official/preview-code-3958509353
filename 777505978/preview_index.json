@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-11-22T01:49:38+00:00",
+  "updated_at": "2026-11-22T05:39:28+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -241,6 +241,13 @@
       "file": "菠萝包の水彩熊.bdi",
       "thumb": "菠萝包の水彩熊.bdi_py_26_light_thumb.png",
       "full": "菠萝包の水彩熊.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の熊熊咖啡屋",
+      "file": "菠萝包の熊熊咖啡屋.bds",
+      "thumb": "菠萝包の熊熊咖啡屋.bds_py_26_light_thumb.png",
+      "full": "菠萝包の熊熊咖啡屋.bds_py_26_light_thumb.png",
+      "file_id": "d1681e912263662f74c8003b4e93c966"
     }
   ]
 }
