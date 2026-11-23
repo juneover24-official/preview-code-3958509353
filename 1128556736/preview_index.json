@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "1128556736",
-  "updated_at": "2026-11-23T13:02:44+00:00",
+  "updated_at": "2026-11-23T13:05:40+00:00",
   "skins": [
     {
       "name": "菠萝包の小食萌记",
@@ -176,6 +176,13 @@
       "file": "菠萝包の小猴儿动销.bds",
       "thumb": "菠萝包の小猴儿动销.bds_py_26_light_thumb.png",
       "full": "菠萝包の小猴儿动销.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の小猴儿",
+      "file": "菠萝包の小猴儿动销_iOS27.bdi",
+      "thumb": "菠萝包の小猴儿动销_iOS27.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の小猴儿动销_iOS27.bdi_py_26_light_thumb.png",
+      "file_id": "3bac487c65f94e60a507ea654b61760d"
     }
   ]
 }
