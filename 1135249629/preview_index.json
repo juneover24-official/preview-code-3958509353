@@ -1,13 +1,19 @@
 {
   "qq_number": "3958509353",
   "group_number": "1135249629",
+  "updated_at": "2026-11-24T13:52:13+00:00",
   "skins": [
     {
       "name": "菠萝包の写写画画",
       "file": "菠萝包の写写画画.bds",
       "thumb": "菠萝包の写写画画.bds_py_26_light_thumb.png",
       "full": "菠萝包の写写画画.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の写写画画",
+      "file": "菠萝包の写写画画.bdi",
+      "thumb": "菠萝包の写写画画.bdi_py_26_light_thumb.png",
+      "full": "菠萝包の写写画画.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-11-24T13:52:08+00:00"
+  ]
 }
