@@ -1,7 +1,7 @@
 {
   "qq_number": "3958509353",
   "group_number": "777505978",
-  "updated_at": "2026-11-28T07:05:35+00:00",
+  "updated_at": "2026-11-28T12:07:42+00:00",
   "skins": [
     {
       "name": "菠萝包の奔腾小马",
@@ -337,6 +337,12 @@
       "file": "菠萝包の冬天冬地.bds",
       "thumb": "菠萝包の冬天冬地.bds_py_26_light_thumb.png",
       "full": "菠萝包の冬天冬地.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "菠萝包の圣诞月",
+      "file": "菠萝包の圣诞月.bds",
+      "thumb": "菠萝包の圣诞月.bds_py_26_light_thumb.png",
+      "full": "菠萝包の圣诞月.bds_py_26_light_thumb.png"
     }
   ]
 }
